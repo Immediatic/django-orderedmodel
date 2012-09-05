@@ -58,3 +58,8 @@ Yep! Now if you create several instances of your model
 and look into admin site you'll see something like this:
 
 ![Admin screenshot](http://kirelagin.ru/~kirrun/orderedmodel/admin.png)
+
+Changelog
+-------------
+
+* Added support to Django 1.4.x (by Francesco Facconi - Immediatic)
